@@ -1,5 +1,4 @@
 # NLP name classification
-This project is being inspired from pytorch tutorial on NLP. I have made a copy of that project in `*-pytorch` notebook. Then my own implementation using sklearn ML libraries to get better implementation using new approch.
 ## Info about dataset:
 | Language   | No of names |
 |------------|------------|
@@ -23,5 +22,3 @@ This project is being inspired from pytorch tutorial on NLP. I have made a copy 
 | Italian    | 709        |
 
 Since the data in dataset are uneven. It is unlikely to convert into dataframe do the other analysis. But we can take it as simple dataset with `X` name and `y` target value. Then do some data preprocessing and train in model.
-## Pytorch
-Using Rnn to classify name
