@@ -1,3 +1,17 @@
 notebook
+ipywidgets
 numpy
 pandas
+scikit-learn
+
+torch
+torchvision
+transformers
+
+matplotlib
+seaborn
+
+# For federated learning
+flwr[simulation]
+ray
+flwr-datasets
